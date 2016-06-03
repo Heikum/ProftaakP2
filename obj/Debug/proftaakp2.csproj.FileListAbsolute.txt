@@ -1,0 +1,13 @@
+c:\users\hicham\documents\visual studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\proftaakp2.exe.config
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\proftaakp2.exe
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\proftaakp2.pdb
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.csprojResolveAssemblyReference.cache
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.Properties.Resources.resources
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.csproj.GenerateResource.Cache
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.exe
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.pdb
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.loginform.resources
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.Form2.resources
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\logins.mdf
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\logins_log.ldf
+C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.overzichtsensoren.resources
