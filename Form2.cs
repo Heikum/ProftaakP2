@@ -18,6 +18,8 @@ namespace proftaakp2
             InitializeComponent();
             tijdlabel.Text = DateTime.Now.ToShortTimeString();
             timer1.Start();
+
+            //Hoi Hicham
         }
 
         private void button1_Click(object sender, EventArgs e)

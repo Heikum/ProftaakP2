@@ -11,3 +11,6 @@ C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\
 C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\logins.mdf
 C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\bin\Debug\logins_log.ldf
 C:\Users\Hicham\Documents\Visual Studio 2015\Projects\proftaakp2\proftaakp2\obj\Debug\proftaakp2.overzichtsensoren.resources
+C:\Users\Lucasz\Documents\Fontys\Jaar 1\Blok 2\Proftaak\ProftaakP2\bin\Debug\proftaakp2.exe.config
+C:\Users\Lucasz\Documents\Fontys\Jaar 1\Blok 2\Proftaak\ProftaakP2\obj\Debug\proftaakp2.exe
+C:\Users\Lucasz\Documents\Fontys\Jaar 1\Blok 2\Proftaak\ProftaakP2\obj\Debug\proftaakp2.pdb
